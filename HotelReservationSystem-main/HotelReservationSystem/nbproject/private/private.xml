@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/DBConnection.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/models/Customer.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/models/Room.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/models/Reservation.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/dao/CustomerDAO.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/dao/RoomDAO.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/dao/ReservationDAO.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/LoginForm.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/RegisterForm.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/CustomerDashboard.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/AdminDashboard.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/RoomSearchForm.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/RoomBookingForm.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/ReservationViewForm.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/PaymentPage.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/SplashScreen.java</file>
+            <file>file:/C:/Users/arul0/OneDrive/Documents/NetBeansProjects/HotelReservationSystem/src/hotel/ui/ExplorePage.java</file>
+        </group>
+    </open-files>
+</project-private>
